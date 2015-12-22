@@ -22,7 +22,7 @@ $signer->sign(); // Will change $domElementInstance->parentNode, appending "Sign
 # Contribute
 
 ```
-$ composer intall
+$ composer install
 ```
 
 ## Running Tests
