@@ -1,6 +1,6 @@
 # php-digital-signer
 
-[![Build Status](https://travis-ci.org/VitorVRS/php-digital-signer.svg)](https://travis-ci.org/VitorVRS/php-digital-signer)
+[![Build Status](https://travis-ci.org/jefersonbelmiro/php-digital-signer.svg)](https://travis-ci.org/VitorVRS/php-digital-signer)
 
 # Usage
 
